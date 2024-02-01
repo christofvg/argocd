@@ -949,7 +949,7 @@ grafana:
   ##
   defaultDashboardsEditable: true
 
-  adminPassword: <path:christof#adminPassword1>
+  adminPassword: <path:christof#adminPassword>
 
   rbac:
     ## If true, Grafana PSPs will be created
